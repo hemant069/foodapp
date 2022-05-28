@@ -1,0 +1,98 @@
+[
+    {
+      "id":1,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+      "name": "Chaitanya Parathas",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 200,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":2,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+      "name": "Pavbhaji",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 300,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":3,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+      "name": "Mather Roti",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.1",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 500,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":4,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant4.jpeg",
+      "name": "French Fries",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "4.4",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 100,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":5,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant6.jpeg",
+      "name": "Large Burger",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "3",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 50,
+      "offer": ["20% off", "Use TRYNEW"]
+    },
+    {
+      "id":6,
+      "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+      "name": "Pizza",
+      "category": [
+        "North India",
+        "Punjabi",
+        "Chinese",
+        "Thalis Combo",
+        "Beverages"
+      ],
+      "rating": "3.5",
+      "deliveryTimings": "33 MINS",
+      "costForTwo": 150,
+      "offer": ["20% off", "Use TRYNEW"]
+    }
+  ]
